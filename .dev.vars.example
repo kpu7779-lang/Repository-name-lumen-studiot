@@ -1,0 +1,11 @@
+# Cloudflare 本地开发环境变量（敏感，不要提交）
+# 复制此文件为 .dev.vars 后填写真实值
+
+# Resend 邮件 API Key
+RESEND_API_KEY=re_xxxxxxxxxxxxx
+
+# 接收联系表单邮件的邮箱
+CONTACT_EMAIL=hello@yourdomain.com
+
+# 发件人邮箱
+RESEND_FROM_EMAIL=Lumen Studio <onboarding@resend.dev>

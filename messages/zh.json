@@ -1,0 +1,103 @@
+{
+  "site": {
+    "name": "Lumen Studio",
+    "tagline": "光与影的叙事者",
+    "description": "独立摄影师作品集，记录人像、风光与街拍的瞬间故事。"
+  },
+  "nav": {
+    "home": "首页",
+    "gallery": "作品集",
+    "about": "关于",
+    "contact": "联系",
+    "theme": "切换主题",
+    "language": "语言"
+  },
+  "hero": {
+    "title": "用镜头\n书写时间",
+    "subtitle": "Lumen Studio · 独立摄影师",
+    "description": "十年间走过二十余个国家，用相机捕捉那些转瞬即逝的光影与人情。每一帧画面都是一段被定格的呼吸。",
+    "cta": "浏览作品集",
+    "ctaSecondary": "了解更多"
+  },
+  "gallery": {
+    "title": "精选作品",
+    "subtitle": "Selected Works",
+    "filterAll": "全部",
+    "filterPortrait": "人像",
+    "filterLandscape": "风光",
+    "filterStreet": "街拍",
+    "filterCommercial": "商业",
+    "viewDetail": "查看详情",
+    "prev": "上一张",
+    "next": "下一张",
+    "close": "关闭",
+    "exif": "拍摄信息",
+    "camera": "机身",
+    "lens": "镜头",
+    "aperture": "光圈",
+    "shutter": "快门",
+    "iso": "感光度",
+    "date": "拍摄日期",
+    "category": "分类",
+    "story": "作品故事"
+  },
+  "about": {
+    "title": "关于摄影师",
+    "subtitle": "About the Photographer",
+    "intro": "我是 Lumen，一名独立摄影师，常驻上海与东京。十年前从胶片摄影入门，逐步转向数码与中画幅并行的创作方式。我相信摄影不是记录现实，而是凝固一种看待世界的角度。",
+    "bio2": "作品曾被《国家地理》中文版、《摄影世界》刊载，并在上海当代艺术馆、京都国际写真节参展。商业合作客户包括 Sony、MUJI、Nike 等。",
+    "stats": {
+      "years": "从业年限",
+      "countries": "拍摄国家",
+      "projects": "完成项目",
+      "awards": "获奖经历"
+    },
+    "gear": "常用设备",
+    "timeline": "重要时刻",
+    "timelineItems": [
+      { "year": "2014", "title": "开始摄影之旅", "desc": "购入第一台胶片相机 Pentax K1000。" },
+      { "year": "2017", "title": "首次个展", "desc": "在上海举办《沉默的午后》个人摄影展。" },
+      { "year": "2019", "title": "国家地理刊载", "desc": "作品《雾中归途》被《国家地理》中文版收录。" },
+      { "year": "2022", "title": "京都写真节", "desc": "受邀参加京都国际写真节联展。" },
+      { "year": "2024", "title": "工作室成立", "desc": "在上海与东京建立双城工作室。" }
+    ]
+  },
+  "contact": {
+    "title": "取得联系",
+    "subtitle": "Get in Touch",
+    "description": "无论是商业合作、定制拍摄还是单纯想聊聊摄影，都欢迎留下你的消息。",
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "请输入您的姓名",
+      "email": "邮箱",
+      "emailPlaceholder": "your@email.com",
+      "subject": "主题",
+      "subjectPlaceholder": "合作 / 拍摄 / 其他",
+      "message": "留言",
+      "messagePlaceholder": "请描述您的需求...",
+      "submit": "发送消息",
+      "submitting": "发送中...",
+      "success": "消息已发送！我会尽快回复您。",
+      "error": "发送失败，请稍后重试或直接发送邮件。"
+    },
+    "email": "邮箱",
+    "location": "所在地",
+    "locationValue": "上海 · 东京",
+    "social": "社交媒体"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "tagline": "用影像讲述故事",
+    "links": {
+      "gallery": "作品集",
+      "about": "关于",
+      "contact": "联系"
+    }
+  },
+  "categories": {
+    "portrait": "人像",
+    "landscape": "风光",
+    "street": "街拍",
+    "commercial": "商业"
+  }
+}

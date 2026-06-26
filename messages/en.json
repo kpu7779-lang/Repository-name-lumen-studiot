@@ -1,0 +1,103 @@
+{
+  "site": {
+    "name": "Lumen Studio",
+    "tagline": "Narrator of Light and Shadow",
+    "description": "Independent photographer's portfolio, capturing stories of portrait, landscape and street photography."
+  },
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact",
+    "theme": "Toggle theme",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Writing time\nthrough a lens",
+    "subtitle": "Lumen Studio · Independent Photographer",
+    "description": "Over ten years across more than twenty countries, capturing fleeting moments of light, shadow and humanity. Each frame is a frozen breath.",
+    "cta": "View Gallery",
+    "ctaSecondary": "Learn More"
+  },
+  "gallery": {
+    "title": "Selected Works",
+    "subtitle": "精选作品",
+    "filterAll": "All",
+    "filterPortrait": "Portrait",
+    "filterLandscape": "Landscape",
+    "filterStreet": "Street",
+    "filterCommercial": "Commercial",
+    "viewDetail": "View Detail",
+    "prev": "Previous",
+    "next": "Next",
+    "close": "Close",
+    "exif": "Exif Data",
+    "camera": "Camera",
+    "lens": "Lens",
+    "aperture": "Aperture",
+    "shutter": "Shutter",
+    "iso": "ISO",
+    "date": "Date",
+    "category": "Category",
+    "story": "Story"
+  },
+  "about": {
+    "title": "About the Photographer",
+    "subtitle": "关于摄影师",
+    "intro": "I'm Lumen, an independent photographer based in Shanghai and Tokyo. I started with film photography ten years ago and gradually shifted to a hybrid workflow of digital and medium format. I believe photography is not about recording reality, but freezing a way of seeing the world.",
+    "bio2": "My work has been featured in National Geographic China and Photography World, exhibited at the Museum of Contemporary Art Shanghai and Kyotographie. Commercial clients include Sony, MUJI, and Nike.",
+    "stats": {
+      "years": "Years of Practice",
+      "countries": "Countries Captured",
+      "projects": "Projects Completed",
+      "awards": "Awards"
+    },
+    "gear": "Gear",
+    "timeline": "Milestones",
+    "timelineItems": [
+      { "year": "2014", "title": "Started Photography", "desc": "Bought my first film camera, a Pentax K1000." },
+      { "year": "2017", "title": "First Solo Exhibition", "desc": "Held solo exhibition 'Silent Afternoon' in Shanghai." },
+      { "year": "2019", "title": "National Geographic Feature", "desc": "Work 'Homeward in the Mist' featured in National Geographic China." },
+      { "year": "2022", "title": "Kyotographie", "desc": "Invited to the group show at Kyotographie International Photography Festival." },
+      { "year": "2024", "title": "Studio Established", "desc": "Founded dual-city studios in Shanghai and Tokyo." }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "取得联系",
+    "description": "Whether for commercial collaboration, custom shoots, or simply chatting about photography, feel free to leave a message.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Collaboration / Shoot / Other",
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your needs...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Message sent! I'll get back to you soon.",
+      "error": "Failed to send. Please try again later or email me directly."
+    },
+    "email": "Email",
+    "location": "Location",
+    "locationValue": "Shanghai · Tokyo",
+    "social": "Social"
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "tagline": "Telling stories through images",
+    "links": {
+      "gallery": "Gallery",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "categories": {
+    "portrait": "Portrait",
+    "landscape": "Landscape",
+    "street": "Street",
+    "commercial": "Commercial"
+  }
+}
