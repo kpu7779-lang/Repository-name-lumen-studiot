@@ -10,7 +10,7 @@ pages_build_output_dir = ".vercel/output/static"
 # 生产环境变量在 Cloudflare Dashboard 配置
 
 [vars]
-NEXT_PUBLIC_SITE_URL = "https://lumen-studio.pages.dev"
+NEXT_PUBLIC_SITE_URL = "https://lumen-studio-3b3.pages.dev"
 
 # 敏感变量（API Key 等）用 wrangler secret put 命令配置
 # 例如: npx wrangler secret put RESEND_API_KEY
