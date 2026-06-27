@@ -1,7 +1,7 @@
 // JSON-LD 结构化数据：让搜索引擎理解站点是关于"一位摄影师"的
 // 同时支持 Person（作者）+ WebSite（站点本体）+ ImageGallery（作品集）
 
-const baseUrl = 'https://photographer-portfolio.example.com'
+const baseUrl = 'https://lumen-studio-3b3.pages.dev'
 
 const personSchema = {
   '@context': 'https://schema.org',

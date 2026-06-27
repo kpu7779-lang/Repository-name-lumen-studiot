@@ -38,7 +38,7 @@ const notoSerifSC = Noto_Serif_SC({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://photographer-portfolio.example.com"),
+  metadataBase: new URL("https://lumen-studio-3b3.pages.dev"),
   title: {
     default: "Lumen Studio — 摄影作品集 | Photography Portfolio",
     template: "%s · Lumen Studio",
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Lumen Studio — 摄影作品集",
     description: "记录光影瞬间，讲述影像背后的故事。",
-    url: "https://photographer-portfolio.example.com",
+    url: "https://lumen-studio-3b3.pages.dev",
     siteName: "Lumen Studio",
     locale: "zh_CN",
     alternateLocale: ["en_US"],

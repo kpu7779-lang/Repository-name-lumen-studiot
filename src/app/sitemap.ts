@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://photographer-portfolio.example.com'
+  const baseUrl = 'https://lumen-studio-3b3.pages.dev'
   const lastModified = new Date()
 
   // 单路由 SPA，主要 URL 是首页（含锚点）
